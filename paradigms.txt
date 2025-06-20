@@ -2070,22 +2070,22 @@
 
 
 -paradigm: sbjv-e
- -flex: .եմ
+ -flex: .իմ
   gramm: prs,sg,1
   gloss: SBJV.PRS.1SG
- -flex: .ես
+ -flex: .իս
   gramm: prs,sg,2
   gloss: SBJV.PRS.2SG
  -flex: .ի
   gramm: prs,sg,3
   gloss: SBJV.PRS.3SG
- -flex: .ենք
+ -flex: .ինք
   gramm: prs,pl,1
   gloss: SBJV.PRS.1PL
- -flex: .եք
+ -flex: .իք
   gramm: prs,pl,2
   gloss: SBJV.PRS.2PL
- -flex: .են
+ -flex: .ին
   gramm: prs,pl,3
   gloss: SBJV.PRS.3PL
 
