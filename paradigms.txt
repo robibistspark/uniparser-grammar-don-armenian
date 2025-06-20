@@ -3419,7 +3419,13 @@
  -flex: <1>.մ
   gramm: prs,sg,1
   gloss: PRS.1SG
+ -flex: <2>.մ
+  gramm: prs,sg,1
+  gloss: PRS.1SG
  -flex: <1>.ս
+  gramm: prs,sg,2
+  gloss: PRS.2SG
+ -flex: <2>.ս
   gramm: prs,sg,2
   gloss: PRS.2SG
  -flex: <0>.
@@ -3429,10 +3435,19 @@
  -flex: <1>.նք
   gramm: prs,pl,1
   gloss: PRS.1PL
+ -flex: <2>.նք
+  gramm: prs,pl,1
+  gloss: PRS.1PL
  -flex: <1>.ք
   gramm: prs,pl,2
   gloss: PRS.2PL
+ -flex: <2>.ք
+  gramm: prs,pl,2
+  gloss: PRS.2PL
  -flex: <1>.ն
+  gramm: prs,pl,3
+  gloss: PRS.3PL
+ -flex: <2>.ն
   gramm: prs,pl,3
   gloss: PRS.3PL
  -flex: <0>.ի
