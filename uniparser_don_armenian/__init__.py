@@ -5,13 +5,13 @@ except ImportError:
 from uniparser_morph import Analyzer
 
 
-class EasternArmenianAnalyzer(Analyzer):
+class DonArmenianAnalyzer(Analyzer):
     def __init__(self, verbose_grammar=False):
         """
         Initialize the analyzer by reading the grammar files.
         """
         super().__init__(verbose_grammar=verbose_grammar)
-        self.dirName = 'uniparser_eastern_armenian.data'
+        self.dirName = 'uniparser_don_armenian.data'
         with as_file(files(self.dirName) / 'paradigms.txt') as self.paradigmFile,\
              as_file(files(self.dirName) / 'lexemes.txt') as self.lexFile,\
              as_file(files(self.dirName) / 'lex_rules.txt') as self.lexRulesFile,\
