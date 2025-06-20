@@ -1132,13 +1132,13 @@
  -flex: .եր<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 -paradigm: pl-ner
  -flex: .ներ<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 -paradigm: pl-ik
  -flex: .իկ<.>
