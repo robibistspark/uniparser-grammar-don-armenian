@@ -1316,7 +1316,7 @@
  -flex: .եր<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 -paradigm: A11
  -flex: .<.>
@@ -1343,7 +1343,7 @@
  -flex: .ներ<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 -paradigm: A12
  -flex: .<.>
@@ -1393,11 +1393,11 @@
  -flex: <1>.եր<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
  -flex: <0>.եր<.>
   gramm: pl,nonst
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 -paradigm: A13
  -flex: .<.>
@@ -1424,11 +1424,11 @@
  -flex: <0>.ներ<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
  -flex: <1>.ներ<.>
   gramm: pl,nonst
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 -paradigm: A14
  -flex: .<.>
@@ -1458,7 +1458,7 @@
  -flex: <1>.ներ<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 
 -paradigm: N17
@@ -1471,7 +1471,7 @@
  -flex: <0>.ներ<.>
   gramm: pl
   gloss: PL
-  paradigm: case-i
+  paradigm: case-u
 
 
 -paradigm: N18a
