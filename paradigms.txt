@@ -230,7 +230,7 @@
   paradigm: nmlz
   paradigm: poss_def
   regex-prev: ^.*[^բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆև<>.][<>.]*$
- -flex: .յից<.>
+ -flex: .յէ<.>
   gramm: abl
   gloss: ABL
   paradigm: poss_def
@@ -238,11 +238,6 @@
  -flex: .յով<.>
   gramm: ins
   gloss: INS
-  paradigm: poss_def
-  regex-prev: ^.*[^բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆև<>.][<>.]*$
- -flex: .յում<.>
-  gramm: loc
-  gloss: LOC
   paradigm: poss_def
   regex-prev: ^.*[^բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆև<>.][<>.]*$
 
@@ -344,17 +339,13 @@
   gloss: OBL
   paradigm: nmlz
   paradigm: poss_def
- -flex: .ուց<.>
+ -flex: .է<.>
   gramm: abl
   gloss: ABL
   paradigm: poss_def
  -flex: .ով<.>
   gramm: ins
   gloss: INS
-  paradigm: poss_def
- -flex: .ում<.>
-  gramm: loc
-  gloss: LOC
   paradigm: poss_def
   
  -flex: .յու<.>
@@ -363,7 +354,7 @@
   paradigm: nmlz
   paradigm: poss_def
   regex-prev: ^.*[^բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆև<>.][<>.]*$
- -flex: .յուց<.>
+ -flex: .յէ<.>
   gramm: abl,nonst
   gloss: ABL
   paradigm: poss_def
@@ -371,11 +362,6 @@
  -flex: .յով<.>
   gramm: ins,nonst
   gloss: INS
-  paradigm: poss_def
-  regex-prev: ^.*[^բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆև<>.][<>.]*$
- -flex: .յում<.>
-  gramm: loc,nonst
-  gloss: LOC
   paradigm: poss_def
   regex-prev: ^.*[^բգդզթժլխծկհձղճմյնշչպջռսվտրցփքֆև<>.][<>.]*$
 
