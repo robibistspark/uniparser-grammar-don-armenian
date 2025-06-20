@@ -186,16 +186,13 @@
  -flex: .ի<.>
   gramm: obl
   gloss: OBL
- -flex: .ից<.>
+ -flex: .է<.>
   gramm: abl
   gloss: ABL
  -flex: .ով<.>
   gramm: ins
   gloss: INS
- -flex: .ում<.>
-  gramm: loc
-  gloss: LOC
- paradigm: poss_def
+  paradigm: poss_def
 
 -paradigm: nmlz
  -flex: .ն<.>
@@ -218,17 +215,13 @@
   gloss: OBL
   paradigm: nmlz
   paradigm: poss_def
- -flex: .ից<.>
+ -flex: .է<.>
   gramm: abl
   gloss: ABL
   paradigm: poss_def
  -flex: .ով<.>
   gramm: ins
   gloss: INS
-  paradigm: poss_def
- -flex: .ում<.>
-  gramm: loc
-  gloss: LOC
   paradigm: poss_def
   
  -flex: .յի<.>
