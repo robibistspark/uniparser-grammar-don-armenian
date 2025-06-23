@@ -1,6 +1,6 @@
 # Don Armenian morphological analyzer
 
-***This is a copy of Eastern Armenian analyzer with additions and changes for dialectal features***
+**Смотреть стоит только архив**
 
 This is a rule-based morphological analyzer for Modern Eastern Armenian (``hye``). It is based on a formalized description of literary Eastern Armenian morphology, which also includes a number of dialectal elements, and uses [uniparser-morph](https://github.com/timarkh/uniparser-morph) for parsing. It performs full morphological analysis of Eastern Armenian words (lemmatization, POS tagging, grammatical tagging, glossing).
 
